@@ -25,7 +25,9 @@ SECRET_KEY = '%y#dadkt2h!%!j3q(y$84au%(uwtmjav3p2u)k!(_!(z804hgm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'www.pipecat.com',
+]
 
 
 # Application definition
