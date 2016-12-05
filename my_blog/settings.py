@@ -26,7 +26,7 @@ SECRET_KEY = '%y#dadkt2h!%!j3q(y$84au%(uwtmjav3p2u)k!(_!(z804hgm'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '.pipecat.com.',
+    '.pipecat.cn.',
     '123.206.104.87',
     'localhost',    
 ]
