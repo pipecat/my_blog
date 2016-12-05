@@ -23,10 +23,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '%y#dadkt2h!%!j3q(y$84au%(uwtmjav3p2u)k!(_!(z804hgm'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
-    'www.pipecat.com',
+    '.pipecat.com.',
+    '123.206.104.87',
+    'localhost',    
 ]
 
 
