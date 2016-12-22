@@ -7,9 +7,4 @@ django1.10 + Pyhton 2.7 + Pure
 0.0.1 本地运行
 0.0.2 修改了一些配置文件，以便blog可以成功在服务器上运行
 ## 地址
-<<<<<<< HEAD
 [http://www.pipecat.cn/](http://www.pipecat.cn/)
-=======
-[http://www.pipecat.cn/](http://www.pipecat.cn/)
-
->>>>>>> 507f2721f466403c02390b07aa98ad73a7197564
